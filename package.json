@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node .",
-    "now-build": "react-scripts build && mv build dist"
+    "start": "node ."
   },
   "author": "Pattypan",
   "license": "ISC",
